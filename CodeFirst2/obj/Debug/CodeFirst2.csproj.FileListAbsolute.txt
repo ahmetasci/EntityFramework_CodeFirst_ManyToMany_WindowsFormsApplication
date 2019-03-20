@@ -1,0 +1,74 @@
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe.config
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.pdb
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Form1.resources
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.FormEgitmenler.resources
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.FormOgrenciler.resources
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Formİliski.resources
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Properties.Resources.resources
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csproj.CopyComplete
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.exe
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.pdb
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Migrations.InitialCreate.resources
+C:\Users\Section2\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Migrations.Original1.resources
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe.config
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.exe
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.pdb
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.pdb
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.dll
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.xml
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Form1.resources
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.FormEgitmenler.resources
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.FormOgrenciler.resources
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Formİliski.resources
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Migrations.InitialCreate.resources
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Migrations.Original1.resources
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Properties.Resources.resources
+C:\Users\AHMET\Desktop\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csproj.GenerateResource.Cache
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\CodeFirst2.exe.config
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.exe
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.pdb
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\CodeFirst2.exe
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\CodeFirst2.pdb
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\EntityFramework.dll
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\EntityFramework.xml
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Form1.resources
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.FormEgitmenler.resources
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.FormOgrenciler.resources
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Formİliski.resources
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Migrations.InitialCreate.resources
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Migrations.Original1.resources
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Properties.Resources.resources
+C:\Users\AHMET\Desktop\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.csproj.GenerateResource.Cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\CodeFirst2.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\CodeFirst2.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\CodeFirst2.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\EntityFramework.dll
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\EntityFramework.xml
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Form1.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.FormEgitmenler.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.FormOgrenciler.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Formİliski.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Migrations.InitialCreate.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Migrations.Original1.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.Properties.Resources.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\Entity Framework\CODEFİRST\CodeFirst-Çokaçok\CodeFirst2\obj\Debug\CodeFirst2.csproj.GenerateResource.Cache
